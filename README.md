@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Cloud-Application-Platform-Apaas
 
-# Top Enterprise Cloud Application Platform (aPaaS) Ecosystem
+## Top Enterprise Cloud Application Platform (aPaaS) Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Low-Code App Development, Visual Modeling & Self-Hosted Application Platforms*  
