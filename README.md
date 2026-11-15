@@ -64,7 +64,7 @@ Open-source enterprise application platforms offer code transparency, Docker/Kub
 
 ### ⭐ Open-Source Leaderboard (Sorted by Stars)
 
-| Project | Star Badge | Primary Focus & Architecture | Best For |
+| Project | Stars_Badge | Primary Focus & Architecture | Best For |
 |:--------|:----------:|:-----------------------------|:---------|
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | **Open-source Airtable alternative.** AGPL-3.0. Connects to PostgreSQL, MySQL, SQL Server, and SQLite, transforming existing schema into smart spreadsheets with REST/GraphQL APIs, webhooks, and collaborative views (Grid, Kanban, Gallery, Form). | Teams seeking no-code database views and business application spreadsheets directly over relational databases. |
 | **[Appsmith](https://github.com/appsmithorg/appsmith)** | [![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) | **Enterprise-grade low-code platform for internal tools.** Apache-2.0. Drag-and-drop builder with 45+ UI widgets, native JS execution, RBAC, SSO, audit logs, and connectors for 25+ databases and REST/GraphQL APIs. | Engineering teams building complex internal CRUD dashboards and customer support panels with enterprise governance. |
